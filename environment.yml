@@ -1,15 +1,14 @@
+name: notes
+channels:
+  - conda-forge
 dependencies:
   - python=3
   - pip
-  - pip:
-    - spacy
-    - ipykernel
-    - scipy
-    - numpy
-    - scikit-learn
-    - matplotlib
-    - pandas
-    - thinc
-    - torch
-    - torchvision
+  - scipy
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - torch
+  - torchvision
    
