@@ -2,13 +2,11 @@ name: notes
 channels:
   - conda-forge
 dependencies:
-  - python=3
-  - pip
   - scipy
   - numpy
   - scikit-learn
   - matplotlib
   - pandas
-  - torch
+  - pytorch
   - torchvision
    
